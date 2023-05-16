@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bens9288
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+    Computer science was an interest I inherited from my friend. My friend was a good advocate for the subject and I was mainly interested in math and art coming out of highschool. Computer Science welcomed me with open arms, it was a meeting of my interests in new and fascinating ways. I had always wanted to know how machines operated and this brought that interest into the real world. It was amazing how a few lines of code could do a task impossible to humans alone. The math behind it was different from all other types of math I had known before. I learned through my Creative Coding class that there was also art that was uniquely mathematic and computer generated that could be made with less than 30 lines of code. This launched me further into a love for all visual effects that math could create. When the classes got harder I was just more willing to pull through to know how computers operated and how art could be created using points. 
+    
+    The subject was really just the beginning. Algorithms are a thing of beauty. Efficency was also very interesting component because it added a way to tell how well code was performing. I had never got better feedback on my work than to try to get my code working under efficent standards. 
+<!---
+bens9288/bens9288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
