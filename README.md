@@ -7,9 +7,11 @@
     
     Creative Coding final, Event Horizon, linked here: 
     
-    Creative Coding was only the beginning, though. Creative Coding inspired me to take Computer Graphics that involved a lot more dicussion of vector and matrix calculation to improve the performance of visual programs. This was where my favorite math classes really became real and visible. Algebra concepts I had loved as simple problems became a better represented sphere, a better clipping calculation or a camera with a greater framerate. I could see how visual information was stored and how it was efficently utilized. I studied the improvements in graphics that were so important to me growing up came to be with more discoveries in the field. This class made me want to be the engineer that inspired future engineers with similar discoveries. Even in fields outside of graphics, I want to advance the field so kids like me could be inspired to use their problem solving skills as I was. I want to be a force of good for my field and a inspiration to my past self. Computer Graphics had many assignments that were very genuiuely fun for my inner child but the ones that stand out are implemening vertex and fragement sahders and implementing 
+    Creative Coding was only the beginning, though. Creative Coding inspired me to take Computer Graphics that involved a lot more dicussion of vector and matrix calculation to improve the performance of visual programs. This was where my favorite math classes really became real and visible. Algebra concepts I had loved as simple problems became a better represented sphere, a better clipping calculation or a camera with a greater framerate. I could see how visual information was stored and how it was efficently utilized. I studied the improvements in graphics that were so important to me growing up came to be with more discoveries in the field. This class made me want to be the engineer that inspired future engineers with similar discoveries. Even in fields outside of graphics, I want to advance the field so kids like me could be inspired to use their problem solving skills as I was. I want to be a force of good for my field and a inspiration to my past self. Computer Graphics had many assignments that were very genuiuely fun for my inner child but the ones that stand out are implemening vertex and fragment shaders and implementing 3d line clipping. 
     
-    
+    Computer Graphics, vertex and fragment shaders, linked here :
+	
+	Computer Graphics, 3d line clipping, linked here: 
     
  ----->
 <!---
