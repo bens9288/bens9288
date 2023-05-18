@@ -19,7 +19,7 @@
     	Computer Graphics, vertex and fragment shaders, linked here : <a href="https://github.com/bens9288/cg-illumination/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
 </p> <p align="center">
 	Computer Graphics, 3d line clipping, linked here: <a href="https://github.com/bens9288/cg-3dprojections/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
-	Computer Graphics, Fun with Fragment Shaders, linked here: <a href="https://github.com/bens9288/cg-fragmentshaders/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
+	<p align="center">Computer Graphics, Fun with Fragment Shaders, linked here: <a href="https://github.com/bens9288/cg-fragmentshaders/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
     <br />
   </p>
 </div>
