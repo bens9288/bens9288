@@ -10,15 +10,15 @@
 	</br> </br>
  &nbsp &nbsp &nbsp  The math behind computer science was also different from all other types of math I had known before. I learned through my Creative Coding class that there was also art that was uniquely mathematical and computer generated that could be made with less than 30 lines of code. One of the professors at Saint Thomas that influenced me the most was John Keston, because he taught art concepts using computer math so his students could enjoy programming in their free time. This launched me further into a love for all visual effects that math could create. When the classes got harder, I was just more willing to pull through to know how computers operated and how art could be created using my passion for math. This idea of programming in creative ways only made me fall in love with this subject more. My final for Professor Keston's class was a love letter to creative programming and 3d graphics. Inspired by my favorite video game growing up, Super Mario Galaxy, it meant a lot to me that outside of rigorous classes the same concepts could be used to bring back your favorite memories in your own personal universe.
     </br>
-   </p> <p align="center"> Creative Coding final, Event Horizon, linked here: <a href="https://github.com/bens9288/EventHorizon/blob/main/README.md"><strong>Explore the docs »</strong></a>
+   </p> <p align="center"> Creative Coding final, Event Horizon, linked here: <a href="https://github.com/bens9288/EventHorizon/blob/main"><strong>Explore the docs »</strong></a>
 </p>
 <p>
  &nbsp &nbsp &nbsp Creative Coding was only the beginning, though. Creative Coding inspired me to take Computer Graphics that involved a lot more discussion of vector and matrix calculation to improve the performance of visual programs. This was where my favorite math classes really became real and visible. Algebra concepts I had loved as simple problems became a better represented sphere, a better clipping calculation or a camera with a greater framerate. I could see how visual information was stored and how it was efficiently utilized. I studied the improvements in graphics that were so important to me growing up came to be with more discoveries in the field. This class made me want to be the engineer that inspired future engineers with similar discoveries. Even in fields outside of graphics, I want to advance the field so kids like me can be inspired to use their problem solving skills as I was. I want to be a force of good for my field and a inspiration to my past self. Computer Graphics had many assignments that were very genuinely fun for my inner child but the ones that stand out are implementing vertex and fragment shaders and implementing 3d line clipping. 
    </br>
    </p> <p align="center">
-    	Computer Graphics, vertex and fragment shaders, linked here : <a href="https://github.com/bens9288/cg-illumination/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
+    	Computer Graphics, vertex and fragment shaders, linked here : <a href="https://github.com/bens9288/cg-illumination/blob/main"><strong>Explore the docs »</strong></a></p>
 </p> <p align="center">
-	Computer Graphics, 3d line clipping, linked here: <a href="https://github.com/bens9288/cg-3dprojections/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
+	Computer Graphics, 3d line clipping, linked here: <a href="https://github.com/bens9288/cg-3dprojections/blob/main"><strong>Explore the docs »</strong></a></p>
 	<p align="center">Computer Graphics, Fun with Fragment Shaders, linked here: <a href="https://github.com/bens9288/cg-fragmentshaders/blob/main/README.md"><strong>Explore the docs »</strong></a></p>
     <br />
   </p>
